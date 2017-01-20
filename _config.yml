@@ -18,6 +18,7 @@ description: > #
   Dear President Trump is a series of Open Letters to President Trump. These
   letters are written in response to his victory speech, offering guidance or
   advice to the new President.
+google_analytics: "UA-90686935-1"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
