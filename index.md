@@ -40,7 +40,7 @@ class.
 
 I'm fortunate enough that at my lowest point, my wife and newborn daughter and I
 lived in a small two bedroom condo owned by my grandmother-in-law. She let us
-live their rent-free, we only had to pay the utilities and HOA fees. I was fresh
+live there rent-free, we only had to pay the utilities and HOA fees. I was fresh
 out of college and had recently lost my job at a sign company. I was lucky to
 find another one fairly quickly building websites at a small company. They
 couldn't afford health insurance, and neither could I. I made so little that my
