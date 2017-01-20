@@ -74,8 +74,8 @@ appeal, and how she needed to acknowledge the cord you struck with many people.
 ## Open Letters
 
 Now that you know a little about why I created this site, I would like to point
-you to [Letters to you President Trump](/letters/) that myself, and
-hopefully others will write to you offering our advice, our guidance. Whether
-we voted for you or not, you are the President now, and that means you work for
-the good of our country, for the good of all people in it, and we are here to
-make sure you live up to that.
+you to [Letters to you President Trump](https://jojonaloha.github.io/dearpresidenttrump/letters/)
+that myself, and hopefully others will write to you offering our advice, our
+guidance. Whether we voted for you or not, you are the President now, and that
+means you work for the good of our country, for the good of all people in it,
+and we are here to make sure you live up to that.
