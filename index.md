@@ -13,7 +13,9 @@ nation and that you take these letters to heart.
 
 I think it is important that we, all people, see each other as real people. I
 think online we often forget that we are interacting with real people, and
-instead just see each other as "[liberal clowns](https://twitter.com/realdonaldtrump/status/622399905441583104)" or conservative "[deplorables](http://www.cnn.com/2016/09/09/politics/hillary-clinton-donald-trump-basket-of-deplorables/)".
+instead just see each other as
+"[liberal clowns](https://twitter.com/realdonaldtrump/status/622399905441583104)"
+or conservative "[deplorables](http://www.cnn.com/2016/09/09/politics/hillary-clinton-donald-trump-basket-of-deplorables/)".
 But in reality, I think we are more alike then we are different. Everybody wants
 to be able to live their life in liberty and pursue what makes them happy. They
 want to be treated with respect and to experience love.
@@ -23,16 +25,18 @@ in the suburbs of Portland, Oregon. I grew up visiting my family in rural Idaho,
 where I witnessed the vast difference in my life near a small metropolitan city
 and their lives there. In many ways I fall into your constituency and I know
 many of my family probably voted for you too. I was lucky though, my parents
-took out loans, along with my own student loans in order for me to go to college.
+took out loans, along with my own student loans in order for me to go to
+college.
 
 In fact, I was a fan of your show Celebrity Apprentice, and when I watched your
-[announcement speech](https://www.youtube.com/watch?v=q_q61B-DyPk) the morning of June 16th, 2015. As Ivanka talked on stage
-and announced your candidacy, I was excited; I was ready to vote for you. Of
-course there were several moments in your speech that I didn't agree with, but
-in general I heard your message that American jobs were being lost overseas. I
-believe that over the last decade or two, or more, we have let large
-corporations send jobs overseas to save money. This has benefitted the corporate
-elite and devastated the lower middle class.
+[announcement speech](https://www.youtube.com/watch?v=q_q61B-DyPk) the morning
+of June 16th, 2015. As Ivanka talked on stage and announced your candidacy, I
+was excited; I was ready to vote for you. Of course there were several moments
+in your speech that I didn't agree with, but in general I heard your message
+that American jobs were being lost overseas. I believe that over the last decade
+or two, or more, we have let large corporations send jobs overseas to save
+money. This has benefitted the corporate elite and devastated the lower middle
+class.
 
 I'm fortunate enough that at my lowest point, my wife and newborn daughter and I
 lived in a small two bedroom condo owned by my grandmother-in-law. She let us
